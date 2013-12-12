@@ -4,4 +4,16 @@ public class unknownPerson extends People {
 	public People fParent = null;
 	public People wParent = null;
 	
+	
+	public String getData() {
+		
+		return "";
+		
+	}
+	
+	public void preOrder() {
+		
+		getData();
+		
+	}
 }
