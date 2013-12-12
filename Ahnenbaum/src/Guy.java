@@ -18,6 +18,14 @@ public class Guy extends People{
 		
 	}
 	
+	public void preOrder() {
+		
+		getData();
+		fParent.preOrder();
+		mParent.preOrder();
+	
+	}
+	
 	public void getStammbaum() {
 		
 		
