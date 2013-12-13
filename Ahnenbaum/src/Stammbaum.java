@@ -8,4 +8,10 @@ public class Stammbaum {
 		
 	}
 	
+	public void startPreOrder() {
+		
+		first.preOrder();
+		
+	}
+	
 }
