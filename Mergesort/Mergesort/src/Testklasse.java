@@ -20,7 +20,6 @@ public class Testklasse {
        System.out.println(mergesort.charWort[6]);
        System.out.println(mergesort.charWort[7]);
        System.out.println(mergesort.charWort[8]);
-       mergesort.asdf();
 		
 	}
 	
